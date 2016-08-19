@@ -6,7 +6,7 @@ The Github location for this project is:
 
 [https://github.com/FilipeQ/play-ebean-example](https://github.com/FilipeQ/play-ebean-example)
 
-The Github location for this complete project is:
+The Github location for this original project is:
 
 [https://github.com/playframework/play-ebean-example](https://github.com/playframework/play-ebean-example)
 

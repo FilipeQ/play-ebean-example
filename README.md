@@ -4,6 +4,10 @@ This is an example Play application that uses Java, and communicates with an in 
 
 The Github location for this project is:
 
+[https://github.com/FilipeQ/play-ebean-example](https://github.com/FilipeQ/play-ebean-example)
+
+The Github location for this complete project is:
+
 [https://github.com/playframework/play-ebean-example](https://github.com/playframework/play-ebean-example)
 
 ## Play
